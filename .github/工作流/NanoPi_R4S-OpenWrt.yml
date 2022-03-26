@@ -21,6 +21,7 @@ env:
   CONFIG_FILE: nanopi/r4s.config
   DIY_P1_SH: nanopi/diy-part1.sh
   DIY_P2_SH: nanopi/diy-part2.sh
+  SSH_ACTIONS: true
   UPLOAD_BIN_DIR: false
   UPLOAD_FIRMWARE: false
   UPLOAD_RELEASE: true
